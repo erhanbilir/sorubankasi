@@ -1,0 +1,55 @@
+.main-page {
+    background-color: #f0f2f5;
+    padding: 20px;
+  }
+  
+  .main-title {
+    text-align: center;
+    color: #1890ff;
+    font-size: 36px;
+  }
+  
+  .main-paragraph {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .feature-card {
+    border: 1px solid #1890ff;
+    transition: transform 0.2s;
+  }
+  
+  .feature-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    text-align: center;
+    color: #1890ff;
+  }
+  
+  .card-paragraph {
+    text-align: center;
+  }
+  
+  .section-title {
+    text-align: center;
+    color: #52c41a;
+    margin-top: 40px;
+  }
+  
+  .section-paragraph {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-card {
+    border: 1px solid #52c41a;
+  }
+  
+  .contact-card .card-title {
+    color: #52c41a;
+  }
+  
